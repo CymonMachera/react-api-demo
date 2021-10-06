@@ -1,0 +1,72 @@
+{
+  "collection": [
+    {
+      "id": 1,
+      "date": "08/09/2021",
+      "collect_id": 11221,
+      "farmer_uin": 114422,
+      "pond_id": 1144,
+      "procedure": "20,000 UN",
+      "group": "10,000UN",
+      "amount": "10,000 UN",
+      "driver_name": "John Smith",
+      "truck_plate_no": "YLA-291EL",
+      "dep_time": "09:35pm"
+    },
+    {
+      "id": 2,
+      "date": "08/09/2021",
+      "collect_id": 11221,
+      "farmer_uin": 114422,
+      "pond_id": 1144,
+      "procedure": "20,000 UN",
+      "group": "10,000UN",
+      "amount": "10,000 UN",
+      "driver_name": "John Smith",
+      "truck_plate_no": "YLA-291EL",
+      "dep_time": "09:35pm"
+    },
+    {
+      "id": 3,
+      "date": "08/09/2021",
+      "collect_id": 11221,
+      "farmer_uin": 114422,
+      "pond_id": 1144,
+      "procedure": "20,000 UN",
+      "group": "10,000UN",
+      "amount": "10,000 UN",
+      "driver_name": "John Smith",
+      "truck_plate_no": "YLA-291EL",
+      "dep_time": "09:35pm"
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "no": 233,
+      "item": "Blue Marlin box of 50kg 15*5",
+      "unit_price": "20,000 UN",
+      "unit": "KG",
+      "amount": "4,000,000",
+      "date": "12-07-2021"
+    },
+    {
+      "id": 2,
+      "no": 233,
+      "item": "Blue Marlin box of 50kg 15*5",
+      "unit_price": "20,000 UN",
+      "unit": "KG",
+      "amount": "4,000,000",
+      "date": "12-07-2021"
+    },
+    {
+      "id": 3,
+      "no": 233,
+      "item": "Blue Marlin box of 50kg 15*5",
+      "unit_price": "20,000 UN",
+      "unit": "KG",
+      "amount": "4,000,000",
+      "date": "12-07-2021"
+    }
+  ]
+}
